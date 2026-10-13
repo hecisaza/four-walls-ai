@@ -49,7 +49,7 @@ pr4_h:"Empresarial",pr4_d:"Firmas grandes e instalaciones sensibles.",pr4_a:"des
 pr_note:"El equipo es aparte: usted lo compra directamente (es suyo) o se lo suministramos al costo. Los sistemas compactos suelen empezar alrededor de $4,000–$7,000; firmas más grandes pueden necesitar más. Los proyectos a medida (ajustar la IA a sus documentos, pruebas comparativas) se cotizan por separado.",
 pr_tag2:"",
 a_h:"Sobre Hector Isaza",
-a_p1:"Soy consultor de automatización de redes y seguridad en Oviedo, y trabajo a través de NetworkingDev. Por años he ayudado a grandes organizaciones a automatizar y asegurar sus redes — incluyendo entornos de más de 6,000 dispositivos — y soy cofundador de Flow Weaver, una plataforma de automatización de redes.",
+a_p1:"Soy consultor de automatización de redes y seguridad en Oviedo, y trabajo a través de NetworkingDev. Por años he ayudado a grandes organizaciones a automatizar y asegurar sus redes y soy cofundador de Flow Weaver, una plataforma de automatización de redes.",
 a_p2:"No solo recomiendo la IA privada: la uso. En mi propio laboratorio en Florida Central opero varias computadoras de IA que alimentan el asistente de IA que uso a diario, con monitoreo y un plan de respaldo para mantenimiento. También contribuyo a proyectos de código abierto que ayudan a correr IA en equipos compactos de oficina. Traigo esa experiencia práctica, con la seguridad como prioridad, a su oficina.",
 a_f1:"Con base en Oviedo, FL",a_f2:"Experiencia en redes y seguridad",a_f3:"Usa IA privada a diario",a_f4:"Inglés y español",
 f_h:"Preguntas frecuentes",
